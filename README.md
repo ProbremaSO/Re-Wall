@@ -13,7 +13,7 @@ A GUI wallpaper manager for KDE Plasma.
 
 ## Installation
 
-Exec AppRun, Auto install functionality, the python script installs the plugin and you only have to set up it on Kde Wallpaper --> type off wallaper --> and select Re:Wall Engine
+Exec AppRun, Auto install functionality, the python script installs the plugin and you only have to set up it on Kde Wallpaper --> type off wallpaper --> and select Re:Wall Engine
 
 ## Usage
 
