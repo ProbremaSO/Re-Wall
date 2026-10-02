@@ -1,0 +1,541 @@
+screen= true state= 1
+set 06 09:51:44 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:44 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:44 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:45 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:45 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:45 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:45 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:45 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:46 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:46 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:46 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:46 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:46 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:48 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:48 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:48 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:48 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:48 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:49 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:49 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:49 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:49 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:49 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:50 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:50 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:50 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:50 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:50 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:51 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:51 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:51 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:51 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:51 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:52 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:52 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:52 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:52 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:52 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:53 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:53 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:53 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:53 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:53 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:54 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:54 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:54 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:54 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:54 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:55 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:55 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:55 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:55 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:55 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:56 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:56 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:56 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:56 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:56 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:57 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:57 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:57 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:57 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:57 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:58 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:58 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:58 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:58 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:58 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:59 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:59 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:59 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:59 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:51:59 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:00 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:00 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:00 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:00 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:00 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:01 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:01 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:01 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:01 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:01 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:02 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:02 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:02 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:02 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:02 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:03 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:03 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:03 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:03 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:03 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:04 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:04 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:04 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:04 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:04 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:05 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:05 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:05 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:05 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:05 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:06 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:06 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:06 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:06 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:06 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:07 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:07 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:07 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:07 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:07 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:08 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:08 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:08 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:08 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:08 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:09 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:09 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:09 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:09 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:09 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:10 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:10 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:10 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:10 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:10 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:11 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:11 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:11 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:11 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:11 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:12 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:12 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:12 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:12 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:12 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:13 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:13 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:13 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:13 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:13 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:14 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:14 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:14 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:14 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:14 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:15 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:15 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:15 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:15 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:15 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:16 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:16 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:16 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:16 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:16 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:17 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:17 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:17 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:17 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:17 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:17 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:52:17 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:52:18 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:18 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:18 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:18 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:18 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:19 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:19 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:19 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:19 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:52:19 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:52:19 jonas-x79 ini.sh[49939]:  RE:WALL ENGINE
+set 06 09:52:19 jonas-x79 ini.sh[49939]: [Re:Wall] Instalando/atualizando plugin Plasma 6...
+set 06 09:52:19 jonas-x79 ini.sh[49939]: [Re:Wall] Plugin Plasma 6 atualizado.
+set 06 09:52:19 jonas-x79 ini.sh[49939]: [Re:Wall] Instalando monitor KWin...
+set 06 09:52:19 jonas-x79 ini.sh[49939]: [Re:Wall] Script KWin atualizado.
+set 06 09:52:19 jonas-x79 ini.sh[49939]: [Re:Wall] Registrando monitor KWin...
+set 06 09:52:19 jonas-x79 ini.sh[49939]: [Re:Wall] Monitor KWin ativado com sucesso!
+set 06 09:52:19 jonas-x79 ini.sh[49939]: [Re:Wall] Instalação concluída.
+set 06 09:52:19 jonas-x79 ini.sh[49939]: Iniciando painel de controle Re:Wall (GTK3)...
+set 06 09:52:19 jonas-x79 ini.sh[49939]: [Re:Wall] Wallpaper atual detectado: /home/jonas/Vídeos/Hidamari/2711_1080P.mp4
+set 06 09:52:19 jonas-x79 systemd[1475]: app-\x2fhome\x2fjonas\x2fDocumentos\x2fRe:Wall@4f5727b36960489da3831157d2248b09.service: Consumed 7min 24.319s CPU time, 1.1G memory peak.
+set 06 09:52:19 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:19 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:20 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:20 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:20 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:20 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:20 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:21 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:21 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:52:21 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:52:21 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:21 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:21 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:21 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:22 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:22 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:22 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:22 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:22 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:23 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:23 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:23 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:23 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:23 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:52:23 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:52:23 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:24 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:24 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:24 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:24 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:24 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:25 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:25 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:25 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:25 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:25 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:25 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:52:25 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:52:26 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:26 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:26 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:26 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:26 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:27 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:27 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:27 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:27 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:27 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:28 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:28 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:28 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:28 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:28 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:29 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:29 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:29 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:29 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:29 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:30 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:30 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:30 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:30 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:30 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:31 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:31 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:31 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:31 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:31 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:32 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:32 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:32 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:32 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:32 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:33 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:33 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:33 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:33 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:33 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:34 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:34 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:34 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:34 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:34 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:35 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:35 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:35 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:35 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:35 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:36 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:36 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:36 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:36 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:36 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:37 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:37 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:37 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:37 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:37 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:38 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:38 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:38 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:38 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:38 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:39 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:39 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:39 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:39 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:39 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:40 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:40 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:40 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:40 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:40 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:41 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:41 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:41 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:41 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:41 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:42 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:42 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:42 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:42 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:42 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:43 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:43 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:43 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:43 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:43 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:52:43 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:52:43 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:44 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:44 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:44 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:44 jonas-x79 systemd[1475]: Started app-\x2fhome\x2fjonas\x2fDocumentos\x2fRe:Wall@671f5aa97b124d3997c9f3a5f58389de.service - /home/jonas/Documentos/Re:Wall v1.2/ini.sh.
+set 06 09:52:44 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:44 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:45 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:45 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:45 jonas-x79 dbus-daemon[1066]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.191' (uid=1000 pid=54348 comm="python /home/jonas/Documentos/Re:Wall v1.2/main.py")
+set 06 09:52:45 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:52:45 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:52:45 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:45 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:45 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:46 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:46 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:46 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:46 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:46 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: configuração mudou: file_path /home/jonas/Vídeos/Hidamari/2711_1080P.mp4
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: playbackState = 0
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: mediaStatus = 2
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: mediaStatus = 1
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: file_path mudou para: /home/jonas/Vídeos/Hidamari/2711_1080P.mp4
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: mediaStatus = 2
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 0
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: playbackState = 1
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: mediaStatus = 4
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: mediaStatus = 5
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:47 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:48 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:48 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:48 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:48 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:48 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:49 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:49 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:49 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:49 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:49 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:50 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:50 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:50 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:50 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:50 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:51 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:51 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:51 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:51 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:51 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:52 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:52 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:52 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:52 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:52 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:53 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:53 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:53 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:53 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:53 jonas-x79 plasmashell[5578]: qml: Re:Wall: configuração mudou: volume 0.3615477629987908
+set 06 09:52:53 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:54 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:54 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:54 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:54 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:54 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:55 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:55 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:55 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:55 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:55 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:56 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:56 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:56 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:56 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:56 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:57 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:57 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:57 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:57 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:57 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:58 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:58 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:58 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:58 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:58 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:59 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:59 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:59 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:59 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:52:59 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:00 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:00 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:00 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:00 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:00 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:01 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:01 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:01 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:01 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:01 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:02 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:02 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:02 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:02 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:02 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:03 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:03 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:53:03 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:53:03 jonas-x79 ini.sh[54348]:  RE:WALL ENGINE
+set 06 09:53:03 jonas-x79 ini.sh[54348]: [Re:Wall] Instalando/atualizando plugin Plasma 6...
+set 06 09:53:03 jonas-x79 ini.sh[54348]: [Re:Wall] Plugin Plasma 6 atualizado.
+set 06 09:53:03 jonas-x79 ini.sh[54348]: [Re:Wall] Instalando monitor KWin...
+set 06 09:53:03 jonas-x79 ini.sh[54348]: [Re:Wall] Script KWin atualizado.
+set 06 09:53:03 jonas-x79 ini.sh[54348]: [Re:Wall] Registrando monitor KWin...
+set 06 09:53:03 jonas-x79 ini.sh[54348]: [Re:Wall] Monitor KWin ativado com sucesso!
+set 06 09:53:03 jonas-x79 ini.sh[54348]: [Re:Wall] Instalação concluída.
+set 06 09:53:03 jonas-x79 ini.sh[54348]: Iniciando painel de controle Re:Wall (GTK3)...
+set 06 09:53:03 jonas-x79 ini.sh[54348]: [Re:Wall] Wallpaper atual detectado: /home/jonas/Vídeos/Hidamari/[4K] Cross in The Eye Live Wallpaper Background 2D.mp4
+set 06 09:53:03 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:03 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:03 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:03 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:04 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:04 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:04 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:04 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:04 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:05 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:05 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:05 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:05 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:05 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:06 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:06 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:06 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:06 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:06 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:06 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:53:06 jonas-x79 kwin_x11[1705]: js: Re:Wall: janela ativada
+set 06 09:53:07 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:07 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:07 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:07 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:07 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:08 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:08 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:08 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:08 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:08 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:09 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:09 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:09 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:09 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:09 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:10 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:10 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:10 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:10 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:10 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:11 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:11 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:11 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:11 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:11 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:12 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:12 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:12 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:12 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:12 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:13 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:13 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:13 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:13 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:13 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:14 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:14 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:14 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:14 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:14 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:15 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:15 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:15 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:15 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:15 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:16 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:16 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:16 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:16 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:16 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:17 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:17 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:17 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:17 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:17 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:18 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:18 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:18 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:18 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:18 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:19 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:19 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:19 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:19 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:19 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:19 jonas-x79 systemd[1475]: app-\x2fhome\x2fjonas\x2fDocumentos\x2fRe:Wall@671f5aa97b124d3997c9f3a5f58389de.service: Consumed 7min 1.254s CPU time, 1.1G memory peak.
+set 06 09:53:20 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:20 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:20 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:20 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:20 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:21 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:21 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1
+set 06 09:53:21 jonas-x79 plasmashell[5578]: qml: Re:Wall: player.play() | manual= false fullscreen= false pauseFullscreen= true state= 1

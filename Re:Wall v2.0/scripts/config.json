@@ -1,0 +1,11 @@
+{
+    "pause_fullscreen": true,
+    "autostart": true,
+    "volume": 1,
+    "playback_rate": 1,
+    "target_fps": 0,
+    "manual_paused": true,
+    "theme": "original",
+    "wallpaper_folder": "/home/jonas/Vídeos/Hidamari",
+    "minimize_to_tray": true
+}

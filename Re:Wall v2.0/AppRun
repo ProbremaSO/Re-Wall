@@ -1,0 +1,6 @@
+#!/bin/sh
+
+HERE="$(dirname "$(readlink -f "${0}")")"
+
+
+exec python3 "$HERE/scripts/main.py" "$@"

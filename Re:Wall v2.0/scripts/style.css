@@ -1,0 +1,82 @@
+/* Re:Wall — dark neon gallery */
+window {
+    background-color: #0a0912;
+    background-image: radial-gradient(circle at 50% -15%, #30243e 0%, #151020 38%, #090811 78%);
+    color: #f7eff8;
+    font-family: "Inter", "Noto Sans", "Cantarell", sans-serif;
+}
+headerbar {
+    min-height: 64px; padding: 8px 18px; color: #fff8ff;
+    background-color: #211c2a;
+    background-image: linear-gradient(180deg, #302938 0%, #211c2a 100%);
+    border-bottom: 1px solid rgba(255, 202, 244, 0.13);
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.42);
+}
+headerbar label { color: #fff8ff; font-weight: 300; letter-spacing: 2px; font-size: 25px; }
+headerbar label.subtitle { color: #ff80c7; font-size: 10px; font-weight: 700; letter-spacing: 1.5px; }
+button, entry, spinbutton { text-shadow: none; box-shadow: none; }
+button.header-action {
+    min-height: 30px; padding: 5px 14px; color: #d9cfdd;
+    background-color: rgba(255, 255, 255, 0.04); background-image: none;
+    border: 1px solid rgba(255, 255, 255, 0.10); border-radius: 8px; font-weight: 600;
+}
+button.header-action:hover { color: #fff; border-color: rgba(255, 104, 186, 0.7); background-color: rgba(255, 89, 177, 0.12); }
+notebook { background-color: transparent; border: none; }
+notebook header { min-height: 48px; background-color: rgba(11, 9, 17, 0.76); border-bottom: 1px solid rgba(255, 255, 255, 0.07); padding: 0 22px; }
+notebook header tabs, notebook header tabs tab { background-color: transparent; border: none; }
+notebook header tabs tab { padding: 14px 34px 12px; color: #a79aa9; font-weight: 700; font-size: 14px; letter-spacing: .4px; }
+notebook header tabs tab:hover { color: #f8eefa; }
+notebook header tabs tab:checked { color: #ff8bcc; box-shadow: inset 0 -2px 0 #ff65b8; }
+.gallery { padding: 8px 22px 20px; }
+.control-surface {
+    padding: 13px 16px; margin-top: 10px; background-color: rgba(27, 23, 36, 0.72);
+    border: 1px solid rgba(255, 255, 255, 0.07); border-radius: 10px;
+}
+.control-surface label { color: #eee5f0; font-weight: 600; font-size: 13px; }
+filechooserbutton button, filechooserbutton {
+    color: #ded3e2; background-color: rgba(8, 7, 13, 0.68); background-image: none;
+    border: 1px solid rgba(255, 255, 255, 0.11); border-radius: 7px;
+}
+.search-row { padding: 11px 2px 14px; }
+searchentry, entry {
+    min-height: 36px; padding: 0 12px; color: #f8eff8; caret-color: #ff74c1;
+    background-color: rgba(12, 9, 19, 0.86); background-image: none;
+    border: 1px solid #9c2e70; border-radius: 9px; box-shadow: 0 0 12px rgba(230, 55, 150, 0.11);
+}
+searchentry:focus, entry:focus { border-color: #ff66ba; box-shadow: 0 0 0 1px rgba(255, 102, 186, 0.3), 0 0 17px rgba(234, 44, 157, 0.22); }
+searchentry image { color: #ff78c5; }
+scrolledwindow, scrolledwindow viewport { background-color: transparent; border: none; }
+scrollbar trough { background-color: transparent; }
+scrollbar slider { min-width: 6px; background-color: #5f5265; border-radius: 10px; }
+scrollbar slider:hover { background-color: #d754a2; }
+.card {
+    margin: 5px; padding: 0; background-color: #15111e;
+    background-image: linear-gradient(145deg, #201a2a, #100d18);
+    border: 1px solid rgba(244, 221, 245, 0.11); border-radius: 14px;
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.28);
+}
+.card:hover { border-color: rgba(255, 104, 187, 0.62); background-image: linear-gradient(145deg, #2b1c32, #130e1c); box-shadow: 0 10px 30px rgba(0, 0, 0, 0.48), 0 0 20px rgba(242, 57, 164, 0.10); }
+.card.selected { border-color: #ff71bf; box-shadow: 0 0 0 1px rgba(255, 113, 191, 0.6), 0 8px 30px rgba(243, 51, 160, 0.26); }
+.thumb-frame { background-color: #09070d; border-radius: 13px 13px 0 0; border-bottom: 1px solid rgba(255, 255, 255, 0.06); }
+.thumb-frame image { opacity: .88; }
+.card:hover .thumb-frame image { opacity: 1; }
+.card-title { min-height: 20px; padding: 11px 14px; color: #e8deea; font-size: 12px; font-weight: 600; }
+.card.selected .card-title { color: #ff8acb; }
+.config-panel { margin: 22px; padding: 28px; background-color: rgba(24, 19, 33, 0.70); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 14px; }
+checkbutton { color: #eee4ef; font-size: 13px; font-weight: 500; padding: 5px 0; }
+checkbutton check { min-width: 17px; min-height: 17px; margin-right: 9px; background-color: #100d17; border: 1px solid #67566b; border-radius: 5px; }
+checkbutton check:checked { background-color: #fa5aaf; background-image: linear-gradient(135deg, #ff7bc5, #ed438f); border-color: #ff8bca; }
+scale trough { min-height: 7px; border-radius: 5px; background-color: #100d18; border: 1px solid rgba(255,255,255,.06); }
+scale highlight { border-radius: 5px; background-image: linear-gradient(90deg, #b9317c, #ff71bc); }
+scale slider { min-width: 17px; min-height: 17px; margin: -5px 0; border-radius: 50%; background-color: #fff1fa; border: 2px solid #f75bab; }
+spinbutton { color: #f7edf7; background-color: #100d17; background-image: none; border: 1px solid #635268; border-radius: 7px; }
+.footer { padding: 14px 24px; background-color: rgba(10, 8, 14, 0.94); border-top: 1px solid rgba(255, 255, 255, 0.08); box-shadow: 0 -8px 25px rgba(0, 0, 0, 0.23); }
+.status { color: #b7a8bb; font-size: 12px; font-weight: 500; }
+button.primary-action, button.pause-action { min-height: 38px; padding: 7px 21px; border-radius: 9px; font-weight: 700; font-size: 13px; }
+button.primary-action { color: #f8eff8; background-color: #211927; background-image: linear-gradient(180deg, #35243a, #1d1623); border: 1px solid #a44481; box-shadow: 0 3px 13px rgba(0,0,0,.26); }
+button.primary-action:hover { border-color: #ff79c2; color: #fff; }
+button.pause-action { color: white; background-color: #ed4f9d; background-image: linear-gradient(90deg, #ff8a7c, #f247a2); border: 1px solid rgba(255,255,255,.16); box-shadow: 0 4px 17px rgba(239, 61, 156, .30); }
+button.pause-action:hover { background-image: linear-gradient(90deg, #ff9a91, #ff5fb2); }
+button.primary-action:disabled { color: #675b69; border-color: #3b303f; background-image: none; background-color: #1a151f; }
+.loading-overlay { padding: 30px 46px; background-color: rgba(21, 15, 29, .95); border: 1px solid rgba(255, 112, 191, .45); border-radius: 14px; box-shadow: 0 0 38px rgba(233, 47, 157, .20); }
+.loading-text { color: #ffeaf7; font-weight: 700; font-size: 14px; }
